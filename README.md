@@ -7,7 +7,7 @@ A simple and responsive weather application that allows users to search for a ci
 ## 🔗 Live Demo
 
 [Click here to view the live app]([https://yourusername.github.io/your-repo-name](https://shivam00018.github.io/Live_Weather_website/))  
-*(Replace with your actual GitHub Pages link)*
+
 
 ---
 
